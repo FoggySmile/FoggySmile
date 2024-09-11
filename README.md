@@ -1,6 +1,6 @@
 ## About Me
 
-👋 Hi there! I'm Natalua, a passionate software developer and data scientist specializing in Big Data, Machine Learning, and NLP. I'm currently pursuing my **Master's degree** in **Artificial Intelligence and Behavioral Economics** at **ITMO University**.
+👋 Hi there! I'm Natalia, a passionate software developer and data scientist specializing in Big Data, Machine Learning, and NLP. I'm currently pursuing my **Master's degree** in **Artificial Intelligence and Behavioral Economics** at **ITMO University**.
 
 - 🌱 I’m currently improving my skills in **Python**, **C/C++**,  **SQL**.
 - 🔬 I love working on **mathematical models**, **optimizations**, and **system analysis**.
