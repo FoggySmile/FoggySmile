@@ -36,4 +36,4 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/natalia-kuzmina-43ba35302/)
 - 📧 [Email](mailto:natakkuzmina@gmail.com)
 - 🪪 [CV_en](https://drive.google.com/file/d/1lxHGPYW85zr-GHIm0PAx78UAErbHj9iM/view?usp=drive_link)
-- 🇷🇺 [CV_ru)(https://drive.google.com/file/d/1L3H7-j0mvl-LMnFZ_ICz-G-WzT3V86sU/view?usp=sharing)
+- 🇷🇺 [CV_ru](https://drive.google.com/file/d/1L3H7-j0mvl-LMnFZ_ICz-G-WzT3V86sU/view?usp=sharing)
