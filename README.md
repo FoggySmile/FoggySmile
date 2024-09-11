@@ -10,7 +10,7 @@
 ## Technical Skills
 
 - **Languages**: Python, C/C++, SQL, Bash
-- **Big Data**: PySpark, Hadoop, ClickHouse
+- **Big Data**: PySpark, ClickHouse
 - **ML/DL Frameworks**: scikit-learn
 - **Data Visualization**: Matplotlib, Seaborn
 - **Cloud and DevOps**: Docker, Kubernetes
