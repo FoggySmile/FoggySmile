@@ -21,7 +21,7 @@
 
 - **Machine Learning Projects**: Created recommendation systems, sentiment analysis tools, and clustering algorithms.
 - **Data Science Projects**: Analyzed large datasets from various industries including finance and social media.
-- **Research**: Working on a thesis topic related to **mathematical modeling of payment behavior** and **linear-elastic fracture models**.
+- **Research**: Working on a thesis topic related to **mathematical modeling of payment behavior**.
 
 ---
 
